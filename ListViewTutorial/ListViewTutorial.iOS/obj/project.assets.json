@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DaleSauls\\source\\repos\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\ListViewTutorial.iOS.csproj",
+      "projectUniqueName": "C:\\Xamarin\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\ListViewTutorial.iOS.csproj",
       "projectName": "ListViewTutorial.iOS",
-      "projectPath": "C:\\Users\\DaleSauls\\source\\repos\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\ListViewTutorial.iOS.csproj",
+      "projectPath": "C:\\Xamarin\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\ListViewTutorial.iOS.csproj",
       "packagesPath": "C:\\Users\\DaleSauls\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DaleSauls\\source\\repos\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\obj\\",
+      "outputPath": "C:\\Xamarin\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\DaleSauls\\source\\repos\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.csproj": {
-              "projectPath": "C:\\Users\\DaleSauls\\source\\repos\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.csproj"
+            "C:\\Xamarin\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.csproj": {
+              "projectPath": "C:\\Xamarin\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial\\ListViewTutorial.csproj"
             }
           }
         }
